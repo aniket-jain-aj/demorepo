@@ -4,6 +4,7 @@ System.out.println("Running");
 }
 public static void main(String[] args){
 	demo.getclass();
+	System.out.println("Temp change");
 }
 }
 
